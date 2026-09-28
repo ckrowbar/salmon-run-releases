@@ -2,12 +2,12 @@
 
 **[⬇ Download the latest build](https://github.com/ckrowbar/salmon-run-releases/releases/latest)**
 
-Direct links: [Mac](https://github.com/ckrowbar/salmon-run-releases/releases/latest/download/SalmonRun-macos.zip) · [Windows](https://github.com/ckrowbar/salmon-run-releases/releases/latest/download/SalmonRun-windows.zip)
+Direct links: [Mac](https://github.com/ckrowbar/salmon-run-releases/releases/latest/download/SalmonRun-macos.dmg) · [Windows](https://github.com/ckrowbar/salmon-run-releases/releases/latest/download/SalmonRun-windows.zip)
 
 ## Mac
-1. Download `SalmonRun-macos.zip` and open it. You get **Salmon Run.app**.
-2. Drag it into your **Applications** folder. The updater can't work from Downloads.
-3. The first time, **right-click → Open**. If macOS still refuses, go to **System Settings → Privacy & Security** and click **Open Anyway**. (The game isn't signed with a paid Apple developer ID yet.)
+1. Download `SalmonRun-macos.dmg` and open it.
+2. Drag **Salmon Run** onto the **Applications** folder in that window.
+3. The first time, open Applications and **right-click Salmon Run → Open**. If macOS still refuses, go to **System Settings → Privacy & Security** and click **Open Anyway**. (The game isn't signed with a paid Apple developer ID yet.)
 
 ## Windows
 1. Download `SalmonRun-windows.zip` and unzip it anywhere you can write to (Desktop, Documents, a Games folder, but not Program Files).
