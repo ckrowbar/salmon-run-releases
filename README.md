@@ -7,7 +7,10 @@ Direct links: [Mac](https://github.com/ckrowbar/salmon-run-releases/releases/lat
 ## Mac
 1. Download `SalmonRun-macos.dmg` and open it.
 2. Drag **Salmon Run** onto the **Applications** folder in that window.
-3. The first time, open Applications and **right-click Salmon Run → Open**. If macOS still refuses, go to **System Settings → Privacy & Security** and click **Open Anyway**. (The game isn't signed with a paid Apple developer ID yet.)
+3. Open Salmon Run from Applications. macOS says **"Salmon Run" Not Opened**: click **Done** (not Move to Trash).
+4. Go to **System Settings → Privacy & Security**, scroll down to *"Salmon Run" was blocked…* and click **Open Anyway**, then **Open Anyway** again.
+
+You only do this once; in-game updates don't ask again. (The game isn't signed with a paid Apple developer ID yet.)
 
 ## Windows
 1. Download `SalmonRun-windows.zip` and unzip it anywhere you can write to (Desktop, Documents, a Games folder, but not Program Files).
